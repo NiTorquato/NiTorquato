@@ -5,6 +5,41 @@
 - 📚 I study at the Federal University of Catalão (UFCAT)
 - 👯 I am looking for an internship opportunity 
 - 📫 How to reach me: nicodemostorquato@gmail.com
+##
+
+## 🚀 Tecnologias Favoritas  
+
+Ferramentas, linguagens e outras coisas que tenho conhecimento.  
+
+<div align="left">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50px"/><br>MongoDB
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px"/><br>MySQL
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50px"/><br>PostgreSQL
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px"/><br>Python
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50px"/><br>VS Code
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px"/><br>Git
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px"/><br>GitHub
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 
 ##
 <div>
