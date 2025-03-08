@@ -5,9 +5,14 @@
 - 📚 I study at the Federal University of Catalão (UFCAT)
 - 👯 I am looking for an internship opportunity 
 - 📫 How to reach me: nicodemostorquato@gmail.com
+
 ##
-![Estatística Github](https://github-readme-stats.vercel.app/api?username=NiTorquato&show_icons=true&theme=dark&include_all_commits=true)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=NiTorquato&layout=compact&theme=dark)
+<div>
+    <a href="https://beacons.ai/NiTorquato">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NiTorquato&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiTorquato&layout=compact&langs_count=16&theme=dark"/>
+</div>
+
 ##
 <div> 
   <a href="https://www.instagram.com/nicodemos_torquato/" target="_blank">
