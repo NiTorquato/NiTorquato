@@ -6,7 +6,7 @@
 - 👯 I am looking for an internship opportunity 
 - 📫 How to reach me: nicodemostorquato@gmail.com
 ##
-![Estatística Github ](https://github-readme-stats.vercel.app/api?username=NiTorquato&show_icons=true&theme=dark)
+![Estatística Github](https://github-readme-stats.vercel.app/api?username=NiTorquato&show_icons=true&theme=dark&include_all_commits=true)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=NiTorquato&layout=compact&theme=dark)
 ##
 <div> 
