@@ -1,19 +1,17 @@
 ## Hello! I'm Nicodemos Torquato
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1;">
     <ul>
       <li> 🌱 I’m currently learning Python</li>
       <li> 📒 I am interested in JavaScript, HTML and CSS</li>
-      <li> 📚 I study at the Federal University of Catalão (UFCAT)</li>
+      <li> 📚 I study at the Federal University of Catalão (UFCAT)</li> 
       <li> 👯 I am looking for an internship opportunity</li>
       <li> 📫 How to reach me: nicodemostorquato@gmail.com</li>
     </ul>
   </div>
-  <div>
-    <img src="https://github.com/user-attachments/assets/713f2d04-3d8f-4d1f-aa78-b760e154f118" width="200px" style="border-radius: 10px; margin-left: 20px;">
-  </div>
 </div>
+
 
 
 ##
@@ -22,9 +20,6 @@
 <div align="left">
   <table>
     <tr>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50px"/><br>MongoDB
-      </td>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px"/><br>MySQL
       </td>
