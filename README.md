@@ -7,9 +7,9 @@
 - 📫 How to reach me: nicodemostorquato@gmail.com
 ##
 
-## 🚀 Tecnologias Favoritas  
+## 🚀 Favorite Technologies
 
-Ferramentas, linguagens e outras coisas que tenho conhecimento.  
+Tools, languages ​​and other things I know about. 
 
 <div align="left">
   <table>
