@@ -1,21 +1,23 @@
 ## Hello! I'm Nicodemos Torquato
 
-<div style="display: flex; align-items: flex-start;">
-  <div style="flex: 1;">
-    <ul>
-      <li> 🌱 I’m currently learning Python</li>
-      <li> 📒 I am interested in JavaScript, HTML and CSS</li>
-      <li> 📚 I study at the Federal University of Catalão (UFCAT)</li> 
-      <li> 👯 I am looking for an internship opportunity</li>
-      <li> 📫 How to reach me: nicodemostorquato@gmail.com</li>
-    </ul>
-  </div>
-</div>
-
-
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li> 🌱 I’m currently learning Python</li>
+        <li> 📒 I am interested in JavaScript, HTML and CSS</li>
+        <li> 📚 I study at the Federal University of Catalão (UFCAT)</li> 
+        <li> 👯 I am looking for an internship opportunity</li>
+        <li> 📫 How to reach me: nicodemostorquato@gmail.com</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/0841b32f-e1e3-492d-a010-f4ed20e173da" width="150" alt="Profile Image">
+    </td>
+  </tr>
+</table>
 
 ##
-
 
 <div align="left">
   <table>
@@ -42,9 +44,8 @@
   </table>
 </div>
 
-
-
 ##
+
 <div>
     <a href="https://beacons.ai/NiTorquato">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=NiTorquato&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -52,6 +53,7 @@
 </div>
 
 ##
+
 <div> 
   <a href="https://www.instagram.com/nicodemos_torquato/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
