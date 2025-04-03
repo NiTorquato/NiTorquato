@@ -61,19 +61,27 @@
 ##
 
 <div> 
-  <a href="#" onclick="window.open('https://www.instagram.com/nicodemos_torquato/', '_blank', 'width=800,height=600'); return false;">
+  <a href="https://www.instagram.com/nicodemos_torquato/" target="_blank" onclick="openInNewWindow(event, this.href)">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a> 
-  <a href="#" onclick="window.open('mailto:nicodemostorquato@gmail.com', '_blank', 'width=800,height=600'); return false;">
+  <a href="mailto:nicodemostorquato@gmail.com" target="_blank" onclick="openInNewWindow(event, this.href)">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="#" onclick="window.open('https://www.linkedin.com/in/nicodemos-torquato/', '_blank', 'width=800,height=600'); return false;">
+  <a href="https://www.linkedin.com/in/nicodemos-torquato/" target="_blank" onclick="openInNewWindow(event, this.href)">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
-  <a href="#" onclick="window.open('https://www.youtube.com/@Nicodemos_Torquato', '_blank', 'width=800,height=600'); return false;">
+  <a href="https://www.youtube.com/@Nicodemos_Torquato" target="_blank" onclick="openInNewWindow(event, this.href)">
     <img src="https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
 </div>
+
+<script>
+  function openInNewWindow(event, url) {
+    event.preventDefault(); // Evita que o link abra na aba atual
+    window.open(url, '_blank', 'width=1000,height=800');
+  }
+</script>
+
 
 
 
