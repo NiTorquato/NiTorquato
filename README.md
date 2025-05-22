@@ -5,7 +5,7 @@
     <td>
       <ul>
         <li> 🌱 I’m currently learning Python</li>
-        <li> 📒 I am studying JavaScript, HTML and CSS</li>
+        <li> 📒 Studying software quality (QA) and data analysis, focusing on testing, validation, and system reliability.</li>
         <li> 📚 I study at the Federal University of Catalão (UFCAT)</li> 
         <li> 👯 I am looking for an internship opportunity</li>
         <li> 📫 How to reach me: nicodemostorquato@gmail.com</li>
