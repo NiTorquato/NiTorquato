@@ -17,10 +17,10 @@
   </tr>
 </table>
 
-##
 
 
-## 🧑🏻‍💻 Tecnologias que Estou Estudando
+
+## 🧑🏻‍💻 Technologies I Am Studying
 <div align="left">
   <table>
     <tr>
@@ -46,18 +46,18 @@
   </table>
 </div>
 
-##
 
-## 📊 Estatísticas do GitHub
+
+## 📊 GitHub Stats
 <div>
     <a href="https://beacons.ai/NiTorquato">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=NiTorquato&show_icons=true&theme=dark"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiTorquato&layout=compact&langs_count=16&theme=dark"/>
 </div>
       
-##
 
-## 🌐 Redes Sociais e Contato
+
+## 🌐 Social Networks and Contact
 <div> 
   <a href="https://nicodemostorquato.vercel.app/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-Portfólio-%23000000?style=for-the-badge&logo=vercel&logoColor=white">
