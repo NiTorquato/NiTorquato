@@ -1,4 +1,4 @@
-## Hello! I'm Nicodemos Torquato
+# Hello! I'm Nicodemos Torquato
 
 <table>
   <tr>
@@ -19,6 +19,8 @@
 
 ##
 
+
+## 🧑🏻‍💻 Tecnologias que Estou Estudando
 <div align="left">
   <table>
     <tr>
@@ -46,6 +48,7 @@
 
 ##
 
+## 📊 Estatísticas do GitHub
 <div>
     <a href="https://beacons.ai/NiTorquato">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=NiTorquato&show_icons=true&theme=dark"/>
@@ -54,6 +57,7 @@
       
 ##
 
+## 🌐 Redes Sociais e Contato
 <div> 
   <a href="https://nicodemostorquato.vercel.app/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-Portfólio-%23000000?style=for-the-badge&logo=vercel&logoColor=white">
