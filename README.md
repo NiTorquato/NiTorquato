@@ -51,8 +51,9 @@
 ## 📊 GitHub Stats
 <div>
     <a href="https://beacons.ai/NiTorquato">
-    <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NiTorquato&show_icons=true&theme=dark"/>
-    <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NiTorquato&layout=compact&langs_count=16&theme=dark"/>
+    <img height="160em" src="https://github-stats-extended.vercel.app/api?username=NiTorquato&show_icons=true&theme=dark"/>
+    <img height="160em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=NiTorquato&layout=compact&langs_count=16&theme=dark"/>
+</a>
 </div>
       
 
